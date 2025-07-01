@@ -1,6 +1,6 @@
 # Etch-a-Sketch Project
 
-![Project Screenshot](screenshot.png) <!-- Add a screenshot if available -->
+![Project Screenshot](screenshot.jpeg)
 
 A browser-based sketchpad inspired by the classic Etch-A-Sketch toy, built with JavaScript, HTML, and CSS.
 
