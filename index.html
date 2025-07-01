@@ -8,11 +8,14 @@
   </head>
   <body>
     <h1>Etch-a-Sketch</h1>
-    <div class="container">
-      <div class="controls">
-        <button id="grid-size-btn">Change Grid Size</button> <br />
-        <button id="clear-btn">Clear Grid</button><br />
-        <button id="rainbow-btn">Rainbow Mode</button><br />
+    <div id="drawing-grid" class="grid-container"></div>
+    <div class="controls">
+      <div class="grid-controls">
+        <button id="grid-size-btn">Change Grid Size</button>
+        <button id="clear-btn">Clear Grid</button>
+      </div>
+      <div class="mode-controls">
+        <button id="rainbow-btn">Rainbow Mode</button>
         <button id="darken-btn">Darken Mode</button>
       </div>
     </div>
